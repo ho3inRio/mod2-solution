@@ -1,0 +1,196 @@
+    * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+header>h1 {
+    text-align: center;
+    margin: 20px auto;
+}
+
+#first {
+    background-color: gray;
+    float: left;
+    width: 30%;
+    border: 2px solid black;
+    margin: 10px;
+    position: relative;
+}
+
+#second {
+    background-color: gray;
+    float: left;
+    width: 30%;
+    border: 2px solid black;
+    margin: 10px;
+    position: relative;
+}
+
+#third {
+    background-color: gray;
+    float: left;
+    width: 30%;
+    border: 2px solid black;
+    margin: 10px;
+    position: relative;
+}
+
+#p1 {
+    text-align: center;
+    width: 150px;
+    height: 26px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: pink;
+    border: 2px solid rgba(0, 0, 0, 0.842);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-size: larger;
+}
+
+#p2 {
+    text-align: center;
+    width: 150px;
+    height: 26px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    float: right;
+    background-color: red;
+    border: 2px solid rgba(0, 0, 0, 0.842);
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-size: larger;
+}
+
+#p3 {
+    text-align: center;
+    width: 150px;
+    height: 26px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: rgb(252, 250, 177);
+    border: 2px solid rgba(0, 0, 0, 0.842);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-size: larger;
+}
+
+#p4 {
+    margin: 35px;
+}
+
+@media (min-width:768px) and (max-width:991px) {
+    #first,
+    #second {
+        width: 45%;
+    }
+    #third {
+        width: 93%;
+    }
+}
+
+@media (max-width:767px) {
+    #first,
+    #second,
+    #third {
+        width: 93%;
+    }
+    =======* {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+    }
+    header>h1 {
+        text-align: center;
+        margin: 20px auto;
+    }
+    #first {
+        background-color: gray;
+        float: left;
+        width: 30%;
+        border: 2px solid black;
+        margin: 10px;
+        position: relative;
+    }
+    #second {
+        background-color: gray;
+        float: left;
+        width: 30%;
+        border: 2px solid black;
+        margin: 10px;
+        position: relative;
+    }
+    #third {
+        background-color: gray;
+        float: left;
+        width: 30%;
+        border: 2px solid black;
+        margin: 10px;
+        position: relative;
+    }
+    #p1 {
+        text-align: center;
+        width: 150px;
+        height: 26px;
+        position: absolute;
+        top: 0;
+        right: 0;
+        background-color: pink;
+        border: 2px solid rgba(0, 0, 0, 0.842);
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-weight: bold;
+        font-size: larger;
+    }
+    #p2 {
+        text-align: center;
+        width: 150px;
+        height: 26px;
+        position: absolute;
+        top: 0;
+        right: 0;
+        float: right;
+        background-color: red;
+        border: 2px solid rgba(0, 0, 0, 0.842);
+        color: white;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-weight: bold;
+        font-size: larger;
+    }
+    #p3 {
+        text-align: center;
+        width: 150px;
+        height: 26px;
+        position: absolute;
+        top: 0;
+        right: 0;
+        background-color: rgb(252, 250, 177);
+        border: 2px solid rgba(0, 0, 0, 0.842);
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-weight: bold;
+        font-size: larger;
+    }
+    #p4 {
+        margin: 35px;
+    }
+    @media (min-width:768px) and (max-width:991px) {
+        #first,
+        #second {
+            width: 45%;
+        }
+        #third {
+            width: 93%;
+        }
+    }
+    @media (max-width:767px) {
+        #first,
+        #second,
+        #third {
+            width: 93%;
+        }
+        >>>>>>>171d69bae50cf34a1e67201b104bd5c87ebdc5a5
+    }
